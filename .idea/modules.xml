@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/프로그래머스/1/1.iml" filepath="$PROJECT_DIR$/프로그래머스/1/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm/algorithms/11_SegementTree/11_SegementTree.iml" filepath="$PROJECT_DIR$/Algorithm/algorithms/11_SegementTree/11_SegementTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/프로그래머스/2/2.iml" filepath="$PROJECT_DIR$/프로그래머스/2/2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithm/algorithms/2_DP/2_DP.iml" filepath="$PROJECT_DIR$/Algorithm/algorithms/2_DP/2_DP.iml" />
       <module fileurl="file://$PROJECT_DIR$/프로그래머스/3/3.iml" filepath="$PROJECT_DIR$/프로그래머스/3/3.iml" />
