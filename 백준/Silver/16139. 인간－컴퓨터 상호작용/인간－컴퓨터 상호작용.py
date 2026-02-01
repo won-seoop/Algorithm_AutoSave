@@ -1,9 +1,11 @@
 import sys
 
+input=sys.stdin.readline
+
 d=[]
 total = [0] * 26
 
-str_=input()
+str_=input().rstrip()
 q=int(input())
 
 for c in str_:
