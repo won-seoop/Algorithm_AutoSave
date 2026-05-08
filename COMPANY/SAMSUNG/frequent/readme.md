@@ -130,3 +130,7 @@ https://www.acmicpc.net/workbook/view/1152
 ## 나. 코드트리
 
 > [코드트리 삼성 기출문제](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/street-light-installation/description)
+
+# 4. 기간
+- 삼성 코테 날짜 (예상) : 2026.04.10 
+- 공부 가능 날짜  : 21일
